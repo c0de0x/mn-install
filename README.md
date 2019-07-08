@@ -5,8 +5,7 @@ Shell script to install a Altbet Masternode on a Linux server running Ubuntu 16.
 
 ## VPS installation for version **1.0.0.0**
 ```
-wget -N https://raw.githubusercontent.com/altbet/mn-install/master/mn-install.sh
-bash mn-install.sh
+wget -N https://raw.githubusercontent.com/c0de0x/mn-install/master/mn-install.sh && bash mn-install.sh
 ```
 ***
 
