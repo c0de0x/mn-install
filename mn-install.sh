@@ -123,9 +123,17 @@ externalip=$NODEIP:$COIN_PORT
 masternodeprivkey=$COINKEY
 
 #Altbet addnodes
+addnode=104.238.181.168
+addnode=95.179.149.133
+addnode=108.61.211.2
+addnode=45.63.85.96
 addnode=140.82.1.78
 addnode=8.9.36.49
 addnode=140.82.48.162
+addnode=45.63.88.175
+addnode=149.28.203.191
+addnode=238.181.128
+addnode=104.238.181.118
 EOF
 }
 
